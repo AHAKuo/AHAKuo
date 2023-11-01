@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AHAKuo
-- 👀 I’m interested in Game Development and Game Design.
-- 🌱 I’m currently learning C# and Github.
+- 👀 I’m interested in Game Development. All of it.
 - 📫 How to reach me: You can reach me over on ahalwagdani@gmail.com || or reach me through discord from the server: https://discord.gg/maKkpyEVMs
 
 <!---
