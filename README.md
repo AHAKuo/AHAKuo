@@ -1,8 +1,41 @@
-- 👋 Hi, I’m @AHAKuo
-- 👀 I’m interested in Game Development. All of it.
-- 📫 How to reach me: You can reach me over on ahalwagdani@gmail.com || or reach me through discord @ahakuo
+# 👋 Hi, I’m Abdulmuhsen (aka @AHAKuo)  
 
-<!---
-AHAKuo/AHAKuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a **Game Developer, Storyteller, and Toolmaker** — building worlds, characters, and the systems that make games possible.  
+I don’t just make games — I also make the **toolkits** that help others bring theirs to life.  
+
+---
+
+## 🎮 Games I’ve Built
+- **Neon Moon** *(Metroidvania, in development)*  
+- **SoUnd Is ToxIc** *(Visual Novel in Ren’py)*  
+- **Before Dark** *(Mobile Game)*  
+- **Lanes Shooter** *(Game Jam)*  
+- **Young Moon** *(Game Jam)*  
+
+---
+
+## 🛠 Tools & Frameworks
+I always build tools that make my life easier — and I release them so they can make yours easier too:  
+
+- **Signalia Pro** — Complete Unity toolkit (UI, pooling, events, saving/loading, transitions).  
+- **Structura** — Utilities, extensions & coding helpers.  
+- **Amazing UI Navigation** — Effortless D-Pad / controller-friendly menu navigation.  
+- **2D Layer Organizer** — Streamlined sorting & layer management.  
+
+---
+
+## ✨ What I Do
+- 🎨 Write stories and design lovable, larger-than-life characters.  
+- 💻 Develop full games from scratch (code, art, design, audio).  
+- ⚙️ Create Unity tools & frameworks that speed up development.  
+- 🎙 Voice act (specializing in villainous/demonic tones and whimsical fairy voices).  
+
+---
+
+## 📬 Reach Me
+- 📧 Email: **ahalwagdani@gmail.com**  
+- 💬 Discord: **@ahakuo**  
+
+---
+
+⭐ Fun fact: My lifelong dream project is *Stories in Glass*, a universe connecting every character I created back in high school into one massive game narrative.
