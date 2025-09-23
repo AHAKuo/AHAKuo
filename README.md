@@ -14,6 +14,11 @@ I don’t just make games — I also make the **toolkits** that help others brin
 
 ---
 
+## 📱 Apps I’ve Made
+- **Symphonia** — A simple offline music player I built for myself to play local music, designed for speed and minimalism.  
+
+---
+
 ## 🛠 Tools & Frameworks
 I always build tools that make my life easier — and I release them so they can make yours easier too:  
 
